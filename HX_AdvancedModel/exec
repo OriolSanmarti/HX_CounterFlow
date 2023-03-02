@@ -1,0 +1,5 @@
+#!/bin/bash
+make clean  #limpia rastros de un make ejecutado anteriormente
+make	    #compila el programa
+./Base.o
+
